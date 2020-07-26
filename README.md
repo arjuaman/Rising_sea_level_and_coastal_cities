@@ -58,9 +58,9 @@ Now reversing the axes, because we need to predict "time" when the countries wil
 On predicting against the elevation of countries above Global Mean Sea Level (in mm) ,which I obtained from scraping the wikipedia, 
 the prediction I got matched the global trend!
 
-Maldives was the worst affected, followed by Singapore, Qatar, Netherlands and Denmark.
+<strong>Maldives</strong> was the worst affected, followed by <strong>Singapore</strong>, <strong>Qatar</strong>, <strong>Netherlands</strong> and <strong>Denmark</strong>.
 
-According to our model, Maldives would be completely under the waters by year 2533, i.e. approx 500 years from now!
+According to our model, Maldives would be completely under the waters by year <em>2533</em>, i.e. approx <em>500 years from now</em>!
 
 ## Concerns and Solutions
 
