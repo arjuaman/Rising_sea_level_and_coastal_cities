@@ -61,6 +61,7 @@ the prediction I got matched the global trend!
 <strong>Maldives</strong> was the worst affected, followed by <strong>Singapore</strong>, <strong>Qatar</strong>, <strong>Netherlands</strong> and <strong>Denmark</strong>.
 
 According to our model, Maldives would be completely under the waters by year <em>2533</em>, i.e. approx <em>500 years from now</em>!
+It's inconsistent with the reports saying <em>Maldives would be underwater in 30 years, or 80 years</em>. Only the lowest parts of the island face such threats, but obviously it can't be ignored.
 
 ## Concerns and Solutions
 
